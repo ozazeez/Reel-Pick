@@ -22,7 +22,7 @@
 
 ## 📸 Screenshots
 
-![Reel-Pick Preview](./assets/social-preview.png) <!-- Replace with actual image path -->
+![Reel-Pick Preview](./assets/reel-pick.png) <!-- Replace with actual image path -->
 
 ---
 
