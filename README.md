@@ -1,6 +1,6 @@
 # 📽️ Reel-Pick
 
-**Reel-Pick** is a movie picker web app that randomly recommends films with their posters using The Movie Database (TMDb) API.
+**Reel-Pick** is a movie picker web app that randomly recommends films with their posters using The Movie Database (TMDb) API. For movie fans everywhere 🎬
 
 Check it out live 👉 [ReelPick](https://reelpick.netlify.app/) 
 ---
@@ -20,7 +20,7 @@ Check it out live 👉 [ReelPick](https://reelpick.netlify.app/)
 
 ## 📸 Screenshots
 
-![Reel-Pick Preview](./assets/reel-pick.png) <!-- Replace with actual image path -->
+![Reel-Pick Preview](./assets/reel-pick.png) 
 
 ---
 
@@ -35,13 +35,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 **Azeez Olaosebikan**  
 [LinkedIn](https://www.linkedin.com/in/azeezolaosebikan)  
 [GitHub](https://github.com/ozazeez)
-
----
-
-## ⭐ Acknowledgments
-
-- [TMDb](https://www.themoviedb.org/) for the API  
-- [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) for the README format  
-- Movie fans everywhere 🎬
 
 ---
